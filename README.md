@@ -1,3 +1,5 @@
+A simple flashcard app devoloped with react. It was fun.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
